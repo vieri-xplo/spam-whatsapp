@@ -1,4 +1,4 @@
-# Sms Gratis
+# Spam WhatsApp
 ```
-Script Sms Gratis dibuat oleh Sanz
+Script Spam WhatsApp Unlimited dibuat oleh Sanz
 ```
